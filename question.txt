@@ -1,0 +1,11 @@
+1. Which movies are the most profitable to the market?
+2. Which movies have the most and least profit, budget and runtime?
+3. How does popularity affect the profit?
+4. Which years do movies made the most profit?
+5. what are the top casts, directors and genres?
+6. Which months have higher profits in movies? 
+
+what kind of movies are most likely to have a continuation?
+Which cast were more filmed?
+Which director was most filmed?
+if working with revenue of movies from few years ago, do we need to account for inflation?
